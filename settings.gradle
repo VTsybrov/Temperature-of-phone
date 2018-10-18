@@ -1,0 +1,1 @@
+include ':app', ':mail-1.4.7', ':activation', ':additionnal', ':mail'
